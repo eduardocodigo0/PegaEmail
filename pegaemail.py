@@ -1,5 +1,5 @@
 ########################################
-##Feito por: Eduardo C.B da Silva 	  ##
+##Feito por: Eduardo C.B da Silva     ##
 ##Contato: eduardocodigo0@gmail.com   ##
 ##Feito em: python 2.7.13             ##
 ########################################
@@ -50,7 +50,7 @@ def procuraEmail(site):
 		print i
 
 os.system("cls")	#limpa a tela
-print"Feito por: Cod23"
+print"Feito por: Eduardo C.B da Silva"
 print"##############################################"
 print"###### Seja bem vindo ao pega e-mail! ########"
 print"##############################################"
